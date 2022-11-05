@@ -6,7 +6,8 @@ I'm a highschool freshman (15) so I'm very open to learning new stuff. I plan on
 <b>I like the NieR franchise... a lot.</b>
 
 ## Public Projects
-[Ganyu](https://github.com/AMEXif/ganyu-bot) - A genshin utility discord bot.
+[Ganyu](https://github.com/AMEXif/ganyu-bot) - A genshin utility discord bot.<br>
+[EAIO](https://github.com/AMEXif/eaio) - Windows app aimed at AMV editors (dead thanks to my terrible code style lol)
 
 ## Social Media
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&logo=discord&style=for-the-badge&logoColor=white)](https://discord.com/users/970732687763599400)
