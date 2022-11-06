@@ -7,7 +7,7 @@ I'm a highschool freshman (15) so I'm very open to learning new stuff. I plan on
 
 ## Public Projects
 [Ganyu](https://github.com/AMEXif/ganyu-bot) - A genshin utility discord bot.<br>
-[2B Lang](https://github.com/AMEXif/2b-lang) - A very simple compiler programming language I'm working on for fun.<br>
+[2B Lang](https://github.com/AMEXif/2b-lang) - A very simple compiled programming language I'm working on for fun.<br>
 [EAIO](https://github.com/AMEXif/eaio) - Windows app aimed at AMV editors (dead thanks to my terrible code style lol)
 
 ## Social Media
