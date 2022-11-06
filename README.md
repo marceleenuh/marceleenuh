@@ -1,6 +1,6 @@
 ## About me
 
-Hi! I'm a software developer from the Czech Republic. My codebases are always a mess (why most of my projects are private). I mainly use C++ and specialize in Artificial Intelligence and Machine Learning. Sometimes I play around with higher level languages as well.<br>
+Hi! I'm a software developer from the Czech Republic. My codebases are always a mess (why most of my projects are private). I mainly use C/C++ and specialize in Artificial Intelligence and Machine Learning. Sometimes I play around with higher level languages as well.<br>
 I'm a highschool freshman (15) so I'm very open to learning new stuff. I plan on studying Computer Science at NUS when I graduate HS.  
 
 <b>I like the NieR franchise... a lot.</b>
