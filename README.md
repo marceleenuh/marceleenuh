@@ -15,4 +15,4 @@ I'm a highschool freshman (15) so I'm very open to learning new stuff. I plan on
 [![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/AMEXif)
 [![Twitter](https://img.shields.io/badge/twitter-%231C9CEA.svg?&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/marceleenuh)
 
-![:name](https://count.getloli.com/get/@AMEXif?theme=asoul)
+![:visitCount](https://count.getloli.com/get/@AMEXif?theme=asoul)
