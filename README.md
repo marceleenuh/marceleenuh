@@ -6,6 +6,8 @@ I don't know why, but I can't really focus on one project for a prolonged period
 
 <b>I like the NieR franchise... a lot.</b>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AMEXif&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Public Projects
 [Ganyu](https://github.com/AMEXif/ganyu-bot) - A genshin utility discord bot.<br>
 [TooB Lang](https://github.com/AMEXif/2b-lang) - A very simple compiled programming language I'm working on for fun.<br>
