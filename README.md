@@ -9,7 +9,6 @@ I don't know why, but I can't really focus on one project for a prolonged period
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=marceleenuh&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Public Projects
-[Ganyu](https://github.com/marceleenuh/ganyu-bot) - A genshin utility discord bot.<br>
 [TooB Lang](https://github.com/marceleenuh/2b-lang) - A very simple compiled programming language I'm working on for fun.<br>
 [EAIO](https://github.com/marceleenuh/eaio) - Windows app aimed at AMV editors (dead thanks to my terrible code style lol)
 
