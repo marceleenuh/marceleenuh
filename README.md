@@ -13,7 +13,7 @@ I don't know why, but I can't really focus on one project for a prolonged period
 [EAIO](https://github.com/marceleenuh/eaio) - Windows app aimed at AMV editors (dead thanks to my terrible code style lol)
 ### Paused Projects
 - [Ganyu](https://github.com/marceleenuh/ganyu-bot) - A genshin utility discord bot
--   Paused due to me not wanting to support discord anymore with their recent actions.
+  - Paused due to me not wanting to support discord anymore with their recent actions.
 
 ## Social Media
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&logo=discord&style=for-the-badge&logoColor=white)](https://discord.com/users/970732687763599400)
