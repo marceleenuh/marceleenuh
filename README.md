@@ -6,8 +6,6 @@ I don't know why, but I can't really focus on one project for a prolonged period
 
 <b>I like the NieR franchise... a lot.</b>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=marceleenuh&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Public Projects
 [TooB Lang](https://github.com/marceleenuh/2b-lang) - A very simple compiled programming language I'm working on for fun.<br>
 
