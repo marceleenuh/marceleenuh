@@ -7,7 +7,7 @@ I don't know why, but I can't really focus on one project for a prolonged period
 <b>I like the NieR franchise... a lot.</b>
 
 ## Public Projects
-[TooB Lang](https://github.com/marceleenuh/2b-lang) - A very simple compiled programming language I'm working on for fun.<br>
+[TooB Lang](https://github.com/marceleenuh/toob-lang) - A very simple compiled programming language I'm working on for fun.<br>
 [Tyrotical](https://github.com/marceleenuh/tyrotical) - My personal vulkan rendering engine.<br>
 
 ### Paused Projects
