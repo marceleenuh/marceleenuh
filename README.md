@@ -6,18 +6,6 @@ I don't know why, but I can't really focus on one project for a prolonged period
 
 <b>I like the NieR franchise... a lot.</b>
 
-## Public Projects
-
-[Tyrotical](https://github.com/marceleenuh/tyrotical) - My personal vulkan rendering engine.<br>
-
-### Paused Projects
-- [Ganyu](https://github.com/marceleenuh/ganyu-bot) - A genshin utility discord bot
-  - Paused due to me not wanting to support discord anymore with their recent actions.
-- [EAIO](https://github.com/marceleenuh/eaio) - Windows app aimed at AMV editors
-  - Paused due to lack of new features to add and my terrible code style just being hard to update.
-- [TooB Lang](https://github.com/marceleenuh/toob-lang) - A very simple compiled programming language I'm working on for fun.
-  - Paused due to pure laziness.
-
 ## Social Media
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&logo=discord&style=for-the-badge&logoColor=white)](https://discord.com/users/970732687763599400)
 [![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/marceleenuh)
