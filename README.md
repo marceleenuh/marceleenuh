@@ -6,10 +6,5 @@ I don't know why, but I can't really focus on one project for a prolonged period
 
 <b>I like the NieR franchise... a lot.</b>
 
-## Social Media
-[![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&logo=discord&style=for-the-badge&logoColor=white)](https://discord.com/users/970732687763599400)
-[![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/marceleenuh)
-[![Twitter](https://img.shields.io/badge/twitter-%231C9CEA.svg?&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/marceleenuh)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceleenuh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![:visitCount](https://count.getloli.com/get/@AMEXif?theme=asoul)
